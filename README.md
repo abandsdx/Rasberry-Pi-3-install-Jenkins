@@ -9,7 +9,7 @@ Rspberry Pi Imager https://www.raspberrypi.com/software/ (software download)
 [Method2]<br>
 1.install docker with command "curl -sSL https://get.docker.com | sh"<br>
 2.with rootless mode with command "sudo usermod -aG docker [your user name]<br>
-3.follow https://hub.docker.com/r/wouterds/rpi-jenkins/ to finish the install.
+3.follow https://hub.docker.com/r/jenkins/jenkins to finish the install.
 
 # Troubleshooting
 1. While Jenkins get error message with **_jenkins.service: start operation timed out. Terminating._**
